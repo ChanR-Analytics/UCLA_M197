@@ -7,18 +7,18 @@ This is a hands-on applied class which will explore the following applications a
 
 - EDM Track Generation with IBM Watson Beat and Google Magenta
 - Tools
-- Python Programming
-- GitHub
-- Google Cloud Platform
-- Logic Pro
+  - Python Programming
+  - GitHub
+  - Google Cloud Platform
+  - Logic Pro
 
 - Detecting Faces in Images
 - Tools
-- JavaScript
-- Tensorflow.js
-- Dart
-- Flutter
-- App Emulator (Visual Studio Code or Android Studio)
+  - JavaScript
+  - Tensorflow.js
+  - Dart
+  - Flutter
+  - App Emulator (Visual Studio Code or Android Studio)
 
 - Students are encouraged to bring their own computers.
 
@@ -34,4 +34,4 @@ Development Workflow:
 2. Migrate Project 1 into Google Cloud Platform (GCP) Instance with Public Jupyter Environment
 3. Dockerize Project 2 within GCP and Run Interactive, Web App on Workshop Day
 4. Run Mobile App on Local Instance for Demonstration Purposes
-5. Document Entire Process and Provide Source Code in a Tutorial Step-By-Step Guide for Students 
+5. Document Entire Process and Provide Source Code in a Tutorial Step-By-Step Guide for Students
